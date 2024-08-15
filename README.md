@@ -1,13 +1,13 @@
 ## Hello there! I'm KYOZO!
 
 <div align="center">
-  <a href="https://github.com/lucian-augusto" />
+  <a href="https://github.com/KY0Z0" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucian-augusto&count_private=true&include_all_commits=true&theme=aura&show_icons=true&custom_title=Lucian%27s%20Github%20Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucian-augusto&count_private=true&include_all_commits=true&theme=aura&langs_count=99&layout=compact" />
 </div>
 
 <!--
-**lucian-augusto/lucian-augusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KY0Z0/KY0Z0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
